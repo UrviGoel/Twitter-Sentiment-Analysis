@@ -5,5 +5,5 @@ Each tweet is then stored in a CSV file with its classification as either positi
 
 ##Dependencies
 
-1. tweepy 
-2. textblob 
+1. Tweepy 
+2. Textblob 
